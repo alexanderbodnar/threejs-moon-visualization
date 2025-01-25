@@ -19,6 +19,7 @@ Follow these steps to install and run the project:
 4. Open your web browser and navigate to:
     ```
     http://localhost:8080
+    ```
 
 
     ![Orbit Mode](preview/orbit_mode.png)
