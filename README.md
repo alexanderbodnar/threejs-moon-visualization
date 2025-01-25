@@ -21,15 +21,9 @@ Follow these steps to install and run the project:
     http://localhost:8080
 
 
-    ```markdown
     ![Orbit Mode](preview/orbit_mode.png)
-    ```
-
-    ```markdown
+    
     ![Satelite View](preview/satelite.png)
-    ```
-
-    ```markdown
+    
     ![Lunar Module](preview/lunar_module.png)
-    ```
 
