@@ -1,0 +1,32 @@
+{
+  "name": "pg-vizualizacia-povrchu-mesiaca",
+  "version": "1.0.0",
+  "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack serve --config webpack.config.js --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
+    "babel-loader": "^9.2.1",
+    "css-loader": "^6.7.1",
+    "html-webpack-plugin": "^5.6.3",
+    "style-loader": "^3.3.1",
+    "three": "^0.169.0",
+    "webpack": "^5.95.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.1.0"
+  },
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "gsap": "^3.12.5",
+    "noisejs": "^2.1.0",
+    "simplex-noise": "^4.0.3",
+    "stats.js": "^0.17.0"
+  }
+}
