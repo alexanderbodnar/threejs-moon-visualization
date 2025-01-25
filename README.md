@@ -5,8 +5,8 @@ Three.js project which offers a visualization of the Moon and its surface, featu
 Follow these steps to install and run the project:
 1. Clone the repository:
     ```sh
-    git clone https://git.kpi.fei.tuke.sk/alexander.bodnar/pg-vizualizacia-povrchu-mesiaca
-    cd pg-vizualizacia-povrchu-mesiaca
+    git clone git@github.com:alexanderbodnar/threejs-moon-visualization.git
+    cd threejs-moon-visualization
     ```
 2. Install all necessary dependencies:
     ```sh
